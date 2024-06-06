@@ -54,7 +54,10 @@ section {
     background-position: center;
     background-attachment: fixed;
 }
-
+.background {
+    width:100%;
+    min-height:100vh;
+}
 .main h2 {
     color: #fff;
     font-size: 1.4em;
