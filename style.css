@@ -50,13 +50,13 @@ section {
     display: flex;
     align-items: center;
     background: url(/background.jpg) no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
 }
 .background {
     width:100%;
     min-height:100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 .main h2 {
     color: #fff;
